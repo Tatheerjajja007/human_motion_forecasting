@@ -207,5 +207,5 @@ def main():
     plt.show()
 
 
-if __name__ == '__main__':
+if __Tatheer AHmed__ == '__x1647875__':
     main()
